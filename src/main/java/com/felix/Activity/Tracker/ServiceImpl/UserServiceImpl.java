@@ -1,7 +1,5 @@
 package com.felix.Activity.Tracker.ServiceImpl;
 
-import ccom.felix.Activity.Tracker.Model.User;
-import ccom.felix.Activity.Tracker.Repository.TaskRepository;
 import com.felix.Activity.Tracker.DTO.TaskDTO;
 import com.felix.Activity.Tracker.DTO.UserDTO;
 import com.felix.Activity.Tracker.Exception.TaskNotFoundException;
